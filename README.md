@@ -1,2 +1,1 @@
-﻿# Por favor, clique aqui para ser direcionado para o repositório correto.
-https://github.com/JoseFranciscoDev/poke-api
+﻿# Poke-API
